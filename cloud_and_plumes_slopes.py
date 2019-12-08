@@ -5,6 +5,7 @@ from random import random
 import matplotlib
 from netCDF4 import Dataset
 import sys
+from slopes_and_binning import *
 
 import pandas as pd
 
